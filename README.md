@@ -1,6 +1,6 @@
 # GameBoy
 
-https://raw.githubusercontent.com/Mezgo/GameBoy/master/GameBoy/captura
+https://raw.githubusercontent.com/Mezgo/GameBoy/master/GameBoy/captura.png
 
 A: para pausar o reproducir canción.
 
